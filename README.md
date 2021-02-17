@@ -8,4 +8,7 @@
   
 3. Recurrent Neural Networks: Generate TV Scripts
   In this project, I generated my own Seinfeld TV scripts using RNNs(LSTM). 
+  
+4. Generative Adversarial Networks: Generate Faces
+  In this project, I defined and trained a DCGAN on a dataset of faces and generated new faces.
  
