@@ -12,3 +12,5 @@
 4. Generative Adversarial Networks: Generate Faces
   In this project, I defined and trained a DCGAN on a dataset of faces and generated new faces.
  
+5. Amazon Sagemaker: Deploying a Model
+  In this project, I used Amazon Sagemaker service to train the neural network for sentiment analysis then deployed the model, after that used Lambda function to connect the service endpoint with trained model, then at the end used simple html page to send the review the endpoint and received the response correctly.
