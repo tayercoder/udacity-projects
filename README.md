@@ -1,4 +1,4 @@
-# udacity-projects
+# udacity- Deep Learning Nanodegree Projects
 1. Predicting Bike-Sharing Patterns:
   In this project, I built and trained my own neural network from scratch and predicted the number of bikeshare user o a given day.
   
