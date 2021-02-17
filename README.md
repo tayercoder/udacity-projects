@@ -16,4 +16,4 @@
   In this project, I used Amazon Sagemaker service to train the neural network for sentiment analysis then deployed the model, after that used Lambda function to connect the service endpoint with trained model, then at the end used simple html page to send the review the endpoint and received the response correctly.
   
 6. AI Programming with Python - Developing an Image Classifier
-  This project is the final project of the I Programming with Python Nanodegree and in this project I accomplished a commandline application which can recognize different species of flowers.
+  This project is the final project of the AI Programming with Python Nanodegree and in this project I accomplished a commandline application which can recognize different species of flowers.
